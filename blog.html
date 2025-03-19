@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Ordem Tech | Dicas e Informações sobre Finanças</title>
+    <meta name="description" content="Blog da Ordem Tech com dicas e informações sobre finanças, segurança bancária, PIX e gestão financeira.">
+    <meta name="keywords" content="OFX, finanças pessoais, fraudes bancárias, PIX, extrato bancário, segurança financeira">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Blog - Leitor OFX | Dicas e Informações sobre Finanças">
+    <meta property="og:description" content="Blog com dicas e informações sobre finanças pessoais, segurança financeira, PIX e análise de extratos bancários.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://seusiteaqui.com.br/blog">
+    <link rel="canonical" href="https://seusiteaqui.com.br/blog">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <!-- Navbar -->
+    <nav class="bg-blue-600 text-white shadow-lg">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <a href="index.html" class="font-bold text-xl">Leitor OFX</a>
+                </div>
+                <div class="hidden md:flex space-x-6">
+                    <a href="index.html" class="hover:text-blue-200 transition-colors">Início</a>
+                    <a href="blog.html" class="hover:text-blue-200 transition-colors">Blog</a>
+                    <a href="#" class="hover:text-blue-200 transition-colors" onclick="showAboutModal()">Sobre</a>
+                    <a href="#" class="hover:text-blue-200 transition-colors" onclick="showContactModal()">Contato</a>
+                </div>
+                <div class="md:hidden">
+                    <button id="mobileMenuButton" class="focus:outline-none">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobileMenu" class="md:hidden hidden pb-4">
+                <a href="index.html" class="block py-2 hover:text-blue-200 transition-colors">Início</a>
+                <a href="blog.html" class="block py-2 hover:text-blue-200 transition-colors">Blog</a>
+                <a href="#" class="block py-2 hover:text-blue-200 transition-colors" onclick="showAboutModal()">Sobre</a>
+                <a href="#" class="block py-2 hover:text-blue-200 transition-colors" onclick="showContactModal()">Contato</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header do Blog -->
+    <header class="bg-blue-700 text-white py-16">
+        <div class="container mx-auto px-4">
+            <h1 class="text-4xl font-bold text-center mb-4">Blog Financeiro</h1>
+            <p class="text-xl text-center text-blue-100 max-w-2xl mx-auto">Dicas e informações sobre finanças pessoais, segurança financeira e novidades do mercado.</p>
+        </div>
+    </header>
+
+    <!-- Conteúdo do Blog -->
+    <main class="container mx-auto px-4 py-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Post 1 - Fraudes -->
+            <article id="fraudes" class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3" alt="Segurança Financeira" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Como Identificar e Prevenir Fraudes Bancárias</h2>
+                    <p class="text-gray-600 mb-4">Aprenda a reconhecer os sinais de possíveis fraudes em sua conta bancária e saiba como se proteger contra golpes financeiros.</p>
+                    <div class="flex items-center text-sm text-gray-500">
+                        <span>10 minutos de leitura</span>
+                        <span class="mx-2">•</span>
+                        <span>Segurança</span>
+                    </div>
+                    <a href="posts/fraudes-bancarias.html" class="inline-block mt-4 text-blue-600 hover:text-blue-800">Ler mais →</a>
+                </div>
+            </article>
+
+            <!-- Post 2 - PIX -->
+            <article id="pix" class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d" alt="PIX" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Tudo que Você Precisa Saber sobre PIX</h2>
+                    <p class="text-gray-600 mb-4">Um guia completo sobre o PIX: como funciona, limites, segurança e as melhores práticas para usar o sistema de pagamento instantâneo.</p>
+                    <div class="flex items-center text-sm text-gray-500">
+                        <span>8 minutos de leitura</span>
+                        <span class="mx-2">•</span>
+                        <span>Pagamentos</span>
+                    </div>
+                    <a href="posts/guia-pix.html" class="inline-block mt-4 text-blue-600 hover:text-blue-800">Ler mais →</a>
+                </div>
+            </article>
+
+            <!-- Post 3 - Finanças Pessoais -->
+            <article id="financas" class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f" alt="Finanças Pessoais" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Organizando suas Finanças com Extratos Bancários</h2>
+                    <p class="text-gray-600 mb-4">Descubra como analisar seus extratos bancários de forma eficiente e usar essas informações para melhorar sua saúde financeira.</p>
+                    <div class="flex items-center text-sm text-gray-500">
+                        <span>12 minutos de leitura</span>
+                        <span class="mx-2">•</span>
+                        <span>Finanças Pessoais</span>
+                    </div>
+                    <a href="posts/organizando-financas.html" class="inline-block mt-4 text-blue-600 hover:text-blue-800">Ler mais →</a>
+                </div>
+            </article>
+
+            <!-- Post 4 - Débitos Automáticos -->
+            <article class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9" alt="Débitos Automáticos" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Gerenciando Débitos Automáticos com Eficiência</h2>
+                    <p class="text-gray-600 mb-4">Como identificar, organizar e otimizar seus débitos automáticos para evitar surpresas e economizar dinheiro todo mês.</p>
+                    <div class="flex items-center text-sm text-gray-500">
+                        <span>7 minutos de leitura</span>
+                        <span class="mx-2">•</span>
+                        <span>Gestão Financeira</span>
+                    </div>
+                    <a href="posts/debitos-automaticos.html" class="inline-block mt-4 text-blue-600 hover:text-blue-800">Ler mais →</a>
+                </div>
+            </article>
+
+            <!-- Post 5 - Arquivos OFX -->
+            <article class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" alt="Arquivos OFX" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Entendendo Arquivos OFX: O Guia Completo</h2>
+                    <p class="text-gray-600 mb-4">Tudo sobre o formato OFX: como baixar seus extratos, interpretar as informações e usar ferramentas para análise financeira.</p>
+                    <div class="flex items-center text-sm text-gray-500">
+                        <span>9 minutos de leitura</span>
+                        <span class="mx-2">•</span>
+                        <span>Tecnologia</span>
+                    </div>
+                    <a href="posts/guia-ofx.html" class="inline-block mt-4 text-blue-600 hover:text-blue-800">Ler mais →</a>
+                </div>
+            </article>
+        </div>
+
+        <!-- Newsletter -->
+        <div class="mt-16 bg-blue-600 rounded-lg shadow-lg p-8 text-white">
+            <div class="max-w-2xl mx-auto text-center">
+                <h2 class="text-2xl font-bold mb-4">Receba Nossas Atualizações</h2>
+                <p class="mb-6">Inscreva-se para receber dicas financeiras, alertas de segurança e novidades sobre o mundo bancário.</p>
+                <form class="flex flex-col md:flex-row gap-4 justify-center">
+                    <input type="email" placeholder="Seu melhor e-mail" class="px-4 py-2 rounded-lg text-gray-800 w-full md:w-96">
+                    <button type="submit" class="bg-white text-blue-600 px-6 py-2 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
+                        Inscrever-se
+                    </button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <p>Desenvolvido por <a href="https://ordemtech.com.br" class="text-blue-400 hover:text-blue-300">Ordem Tech</a></p>
+                <p class="mt-2">&copy; 2024 Ordem Tech. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu toggle
+        document.getElementById('mobileMenuButton').addEventListener('click', function() {
+            const mobileMenu = document.getElementById('mobileMenu');
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Newsletter form
+        document.querySelector('form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const email = this.querySelector('input[type="email"]').value;
+            if (email) {
+                alert('Obrigado por se inscrever! Em breve você receberá nossas atualizações.');
+                this.reset();
+            }
+        });
+    </script>
+</body>
+</html>

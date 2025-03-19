@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tudo que Você Precisa Saber sobre PIX - Leitor OFX</title>
+    <meta name="description" content="Guia completo sobre o PIX: como funciona, limites, segurança e as melhores práticas para usar o sistema de pagamento instantâneo.">
+    <meta name="keywords" content="PIX, pagamento instantâneo, transferência bancária, banco central, fintech">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <!-- Navbar -->
+    <nav class="bg-blue-600 text-white shadow-lg">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <a href="../index.html" class="font-bold text-xl">Leitor OFX</a>
+                </div>
+                <div class="hidden md:flex space-x-6">
+                    <a href="../index.html" class="hover:text-blue-200 transition-colors">Início</a>
+                    <a href="../blog.html" class="hover:text-blue-200 transition-colors">Blog</a>
+                    <a href="#" class="hover:text-blue-200 transition-colors" onclick="showAboutModal()">Sobre</a>
+                    <a href="#" class="hover:text-blue-200 transition-colors" onclick="showContactModal()">Contato</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Conteúdo do Post -->
+    <main class="container mx-auto px-4 py-12">
+        <article class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
+            <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d" alt="PIX" class="w-full h-96 object-cover">
+            
+            <div class="p-8">
+                <header class="mb-8">
+                    <h1 class="text-4xl font-bold text-gray-800 mb-4">Tudo que Você Precisa Saber sobre PIX</h1>
+                    <div class="flex items-center text-sm text-gray-500">
+                        <span>8 minutos de leitura</span>
+                        <span class="mx-2">•</span>
+                        <span>Pagamentos</span>
+                        <span class="mx-2">•</span>
+                        <span>Atualizado em 15 de Março de 2024</span>
+                    </div>
+                </header>
+
+                <div class="prose max-w-none">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">O que é o PIX?</h2>
+                    <p class="mb-6">O PIX é o sistema de pagamentos instantâneos criado pelo Banco Central do Brasil. Com ele, é possível fazer transferências e pagamentos 24 horas por dia, 7 dias por semana, em poucos segundos.</p>
+
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Principais Características</h2>
+                    <ul class="list-disc pl-6 mb-6">
+                        <li class="mb-2">Transferências instantâneas</li>
+                        <li class="mb-2">Disponível 24/7</li>
+                        <li class="mb-2">Gratuito para pessoas físicas</li>
+                        <li class="mb-2">Múltiplas chaves de acesso</li>
+                        <li class="mb-2">QR Code para pagamentos</li>
+                    </ul>
+
+                    <div class="bg-blue-50 p-4 rounded-lg mb-6">
+                        <strong class="block mb-2">Dica:</strong>
+                        <p>Cadastre diferentes tipos de chaves PIX para facilitar o recebimento de pagamentos. Você pode usar CPF, e-mail, telefone ou chave aleatória.</p>
+                    </div>
+
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Tipos de Chaves PIX</h2>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">1. CPF/CNPJ</h3>
+                    <p class="mb-4">Seu documento de identificação como chave.</p>
+
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">2. E-mail</h3>
+                    <p class="mb-4">Seu endereço de e-mail cadastrado.</p>
+
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">3. Celular</h3>
+                    <p class="mb-4">Seu número de telefone móvel.</p>
+
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">4. Chave Aleatória</h3>
+                    <p class="mb-4">Código único gerado pelo sistema.</p>
+
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Segurança no PIX</h2>
+                    <p class="mb-6">O PIX conta com diversos mecanismos de segurança:</p>
+                    <ul class="list-disc pl-6 mb-6">
+                        <li class="mb-2">Autenticação dupla</li>
+                        <li class="mb-2">Criptografia de ponta a ponta</li>
+                        <li class="mb-2">Monitoramento em tempo real</li>
+                        <li class="mb-2">Limites de transação configuráveis</li>
+                    </ul>
+
+                    <div class="bg-yellow-50 p-4 rounded-lg mb-6">
+                        <strong class="block mb-2">Importante:</strong>
+                        <p>Configure limites diários e noturnos para suas transações PIX de acordo com suas necessidades, aumentando assim sua segurança.</p>
+                    </div>
+
+                    <h2 class="text-2xl font-bold text-gray-800 mb-4">Como Usar o PIX</h2>
+                    <ol class="list-decimal pl-6 mb-6">
+                        <li class="mb-2">Acesse seu aplicativo bancário</li>
+                        <li class="mb-2">Selecione a opção PIX</li>
+                        <li class="mb-2">Escolha entre pagar com chave PIX ou QR Code</li>
+                        <li class="mb-2">Digite o valor e a descrição</li>
+                        <li class="mb-2">Confirme os dados e autorize a transação</li>
+                    </ol>
+                </div>
+            </div>
+        </article>
+
+        <!-- Artigos Relacionados -->
+        <div class="max-w-4xl mx-auto mt-12">
+            <h2 class="text-2xl font-bold text-gray-800 mb-6">Artigos Relacionados</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <a href="fraudes-bancarias.html" class="block bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                    <img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3" alt="Segurança Financeira" class="w-full h-48 object-cover">
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Como Identificar e Prevenir Fraudes Bancárias</h3>
+                        <p class="text-gray-600">Proteja-se contra golpes e mantenha suas finanças seguras.</p>
+                    </div>
+                </a>
+                <a href="organizando-financas.html" class="block bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                    <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f" alt="Finanças Pessoais" class="w-full h-48 object-cover">
+                    <div class="p-4">
+                        <h3 class="font-bold text-lg mb-2">Organizando suas Finanças com Extratos Bancários</h3>
+                        <p class="text-gray-600">Aprenda a analisar seus extratos e melhorar sua saúde financeira.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8 mt-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Leitor OFX</h3>
+                    <p class="text-gray-400">Ferramenta gratuita para visualização e conversão de arquivos OFX.</p>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Links Rápidos</h3>
+                    <ul class="space-y-2">
+                        <li><a href="../index.html" class="text-gray-400 hover:text-white transition-colors">Início</a></li>
+                        <li><a href="../blog.html" class="text-gray-400 hover:text-white transition-colors">Blog</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Redes Sociais</h3>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">Twitter</a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">LinkedIn</a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-6 text-sm text-gray-400 text-center">
+                &copy; 2024 Leitor OFX. Todos os direitos reservados.
+            </div>
+        </div>
+    </footer>
+</body>
+</html> 

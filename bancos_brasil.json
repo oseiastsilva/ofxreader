@@ -1,0 +1,1745 @@
+[
+{
+    "valor": "001",
+    "nome_reduzido": "BCO DO BRASIL S.A.",
+    "key": "001 - BCO DO BRASIL S.A."
+},
+{
+    "valor": "033",
+    "nome_reduzido": "BCO SANTANDER (BRASIL) S.A.",
+    "key": "033 - BCO SANTANDER (BRASIL) S.A."
+},
+{
+    "valor": "104",
+    "nome_reduzido": "CAIXA ECONOMICA FEDERAL",
+    "key": "104 - CAIXA ECONOMICA FEDERAL"
+},
+{
+    "valor": "237",
+    "nome_reduzido": "BCO BRADESCO S.A.",
+    "key": "237 - BCO BRADESCO S.A."
+},
+{
+    "valor": "341",
+    "nome_reduzido": "ITAÚ UNIBANCO S.A.",
+    "key": "341 - ITAÚ UNIBANCO S.A."
+},
+ {
+  "valor": "003",
+  "nome_reduzido": "BCO DA AMAZONIA S.A.",
+  "key": "003 - BCO DA AMAZONIA S.A."
+ },
+ {
+  "valor": "004",
+  "nome_reduzido": "BCO DO NORDESTE DO BRASIL S.A.",
+  "key": "004 - BCO DO NORDESTE DO BRASIL S.A."
+ },
+ {
+  "valor": "007",
+  "nome_reduzido": "BNDES",
+  "key": "007 - BNDES"
+ },
+ {
+  "valor": "010",
+  "nome_reduzido": "CREDICOAMO",
+  "key": "010 - CREDICOAMO"
+ },
+ {
+  "valor": "011",
+  "nome_reduzido": "C.SUISSE HEDGING-GRIFFO CV S\/A",
+  "key": "011 - C.SUISSE HEDGING-GRIFFO CV S\/A"
+ },
+ {
+  "valor": "012",
+  "nome_reduzido": "BANCO INBURSA",
+  "key": "012 - BANCO INBURSA"
+ },
+ {
+  "valor": "014",
+  "nome_reduzido": "STATE STREET BR S.A. BCO COMERCIAL",
+  "key": "014 - STATE STREET BR S.A. BCO COMERCIAL"
+ },
+ {
+  "valor": "015",
+  "nome_reduzido": "UBS BRASIL CCTVM S.A.",
+  "key": "015 - UBS BRASIL CCTVM S.A."
+ },
+ {
+  "valor": "016",
+  "nome_reduzido": "CCM DESP TRÂNS SC E RS",
+  "key": "016 - CCM DESP TRÂNS SC E RS"
+ },
+ {
+  "valor": "017",
+  "nome_reduzido": "BNY MELLON BCO S.A.",
+  "key": "017 - BNY MELLON BCO S.A."
+ },
+ {
+  "valor": "018",
+  "nome_reduzido": "BCO TRICURY S.A.",
+  "key": "018 - BCO TRICURY S.A."
+ },
+ {
+  "valor": "021",
+  "nome_reduzido": "BCO BANESTES S.A.",
+  "key": "021 - BCO BANESTES S.A."
+ },
+ {
+  "valor": "024",
+  "nome_reduzido": "BCO BANDEPE S.A.",
+  "key": "024 - BCO BANDEPE S.A."
+ },
+ {
+  "valor": "025",
+  "nome_reduzido": "BCO ALFA S.A.",
+  "key": "025 - BCO ALFA S.A."
+ },
+ {
+  "valor": "029",
+  "nome_reduzido": "BANCO ITAÚ CONSIGNADO S.A.",
+  "key": "029 - BANCO ITAÚ CONSIGNADO S.A."
+ },
+ {
+  "valor": "036",
+  "nome_reduzido": "BCO BBI S.A.",
+  "key": "036 - BCO BBI S.A."
+ },
+ {
+  "valor": "037",
+  "nome_reduzido": "BCO DO EST. DO PA S.A.",
+  "key": "037 - BCO DO EST. DO PA S.A."
+ },
+ {
+  "valor": "040",
+  "nome_reduzido": "BCO CARGILL S.A.",
+  "key": "040 - BCO CARGILL S.A."
+ },
+ {
+  "valor": "041",
+  "nome_reduzido": "BCO DO ESTADO DO RS S.A.",
+  "key": "041 - BCO DO ESTADO DO RS S.A."
+ },
+ {
+  "valor": "047",
+  "nome_reduzido": "BCO DO EST. DE SE S.A.",
+  "key": "047 - BCO DO EST. DE SE S.A."
+ },
+ {
+  "valor": "060",
+  "nome_reduzido": "CONFIDENCE CC S.A.",
+  "key": "060 - CONFIDENCE CC S.A."
+ },
+ {
+  "valor": "062",
+  "nome_reduzido": "HIPERCARD BM S.A.",
+  "key": "062 - HIPERCARD BM S.A."
+ },
+ {
+  "valor": "063",
+  "nome_reduzido": "BANCO BRADESCARD",
+  "key": "063 - BANCO BRADESCARD"
+ },
+ {
+  "valor": "064",
+  "nome_reduzido": "GOLDMAN SACHS DO BRASIL BM S.A",
+  "key": "064 - GOLDMAN SACHS DO BRASIL BM S.A"
+ },
+ {
+  "valor": "065",
+  "nome_reduzido": "BCO ANDBANK S.A.",
+  "key": "065 - BCO ANDBANK S.A."
+ },
+ {
+  "valor": "066",
+  "nome_reduzido": "BCO MORGAN STANLEY S.A.",
+  "key": "066 - BCO MORGAN STANLEY S.A."
+ },
+ {
+  "valor": "069",
+  "nome_reduzido": "BCO CREFISA S.A.",
+  "key": "069 - BCO CREFISA S.A."
+ },
+ {
+  "valor": "070",
+  "nome_reduzido": "BRB - BCO DE BRASILIA S.A.",
+  "key": "070 - BRB - BCO DE BRASILIA S.A."
+ },
+ {
+  "valor": "074",
+  "nome_reduzido": "BCO. J.SAFRA S.A.",
+  "key": "074 - BCO. J.SAFRA S.A."
+ },
+ {
+  "valor": "075",
+  "nome_reduzido": "BCO ABN AMRO S.A.",
+  "key": "075 - BCO ABN AMRO S.A."
+ },
+ {
+  "valor": "076",
+  "nome_reduzido": "BCO KDB BRASIL S.A.",
+  "key": "076 - BCO KDB BRASIL S.A."
+ },
+ {
+  "valor": "077",
+  "nome_reduzido": "BANCO INTER",
+  "key": "077 - BANCO INTER"
+ },
+ {
+  "valor": "078",
+  "nome_reduzido": "HAITONG BI DO BRASIL S.A.",
+  "key": "078 - HAITONG BI DO BRASIL S.A."
+ },
+ {
+  "valor": "079",
+  "nome_reduzido": "PICPAY BANK - BANCO MÚLTIPLO S.A",
+  "key": "079 - PICPAY BANK - BANCO MÚLTIPLO S.A"
+ },
+ {
+  "valor": "080",
+  "nome_reduzido": "B&T CC LTDA.",
+  "key": "080 - B&T CC LTDA."
+ },
+ {
+  "valor": "081",
+  "nome_reduzido": "BANCOSEGURO S.A.",
+  "key": "081 - BANCOSEGURO S.A."
+ },
+ {
+  "valor": "082",
+  "nome_reduzido": "BANCO TOPÁZIO S.A.",
+  "key": "082 - BANCO TOPÁZIO S.A."
+ },
+ {
+  "valor": "083",
+  "nome_reduzido": "BCO DA CHINA BRASIL S.A.",
+  "key": "083 - BCO DA CHINA BRASIL S.A."
+ },
+ {
+  "valor": "084",
+  "nome_reduzido": "SISPRIME DO BRASIL - COOP",
+  "key": "084 - SISPRIME DO BRASIL - COOP"
+ },
+ {
+  "valor": "085",
+  "nome_reduzido": "COOPCENTRAL AILOS",
+  "key": "085 - COOPCENTRAL AILOS"
+ },
+ {
+  "valor": "088",
+  "nome_reduzido": "BANCO RANDON S.A.",
+  "key": "088 - BANCO RANDON S.A."
+ },
+ {
+  "valor": "089",
+  "nome_reduzido": "CREDISAN CC",
+  "key": "089 - CREDISAN CC"
+ },
+ {
+  "valor": "093",
+  "nome_reduzido": "POLOCRED SCMEPP LTDA.",
+  "key": "093 - POLOCRED SCMEPP LTDA."
+ },
+ {
+  "valor": "094",
+  "nome_reduzido": "BANCO FINAXIS",
+  "key": "094 - BANCO FINAXIS"
+ },
+ {
+  "valor": "095",
+  "nome_reduzido": "TRAVELEX BANCO DE CÂMBIO S.A.",
+  "key": "095 - TRAVELEX BANCO DE CÂMBIO S.A."
+ },
+ {
+  "valor": "096",
+  "nome_reduzido": "BCO B3 S.A.",
+  "key": "096 - BCO B3 S.A."
+ },
+ {
+  "valor": "097",
+  "nome_reduzido": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+  "key": "097 - CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA."
+ },
+ {
+  "valor": "098",
+  "nome_reduzido": "CREDIALIANÇA CCR",
+  "key": "098 - CREDIALIANÇA CCR"
+ },
+ {
+  "valor": "099",
+  "nome_reduzido": "UNIPRIME COOPCENTRAL LTDA.",
+  "key": "099 - UNIPRIME COOPCENTRAL LTDA."
+ },
+ {
+  "valor": "100",
+  "nome_reduzido": "PLANNER CV S.A.",
+  "key": "100 - PLANNER CV S.A."
+ },
+ {
+  "valor": "101",
+  "nome_reduzido": "RENASCENCA DTVM LTDA",
+  "key": "101 - RENASCENCA DTVM LTDA"
+ },
+ {
+  "valor": "102",
+  "nome_reduzido": "XP INVESTIMENTOS CCTVM S\/A",
+  "key": "102 - XP INVESTIMENTOS CCTVM S\/A"
+ },
+
+ {
+  "valor": "105",
+  "nome_reduzido": "LECCA CFI S.A.",
+  "key": "105 - LECCA CFI S.A."
+ },
+ {
+  "valor": "107",
+  "nome_reduzido": "BCO BOCOM BBM S.A.",
+  "key": "107 - BCO BOCOM BBM S.A."
+ },
+ {
+  "valor": "111",
+  "nome_reduzido": "OLIVEIRA TRUST DTVM S.A.",
+  "key": "111 - OLIVEIRA TRUST DTVM S.A."
+ },
+ {
+  "valor": "113",
+  "nome_reduzido": "NEON CTVM S.A.",
+  "key": "113 - NEON CTVM S.A."
+ },
+ {
+  "valor": "114",
+  "nome_reduzido": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO",
+  "key": "114 - CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO"
+ },
+ {
+  "valor": "117",
+  "nome_reduzido": "ADVANCED CC LTDA",
+  "key": "117 - ADVANCED CC LTDA"
+ },
+ {
+  "valor": "119",
+  "nome_reduzido": "BCO WESTERN UNION",
+  "key": "119 - BCO WESTERN UNION"
+ },
+ {
+  "valor": "120",
+  "nome_reduzido": "BCO RODOBENS S.A.",
+  "key": "120 - BCO RODOBENS S.A."
+ },
+ {
+  "valor": "121",
+  "nome_reduzido": "BCO AGIBANK S.A.",
+  "key": "121 - BCO AGIBANK S.A."
+ },
+ {
+  "valor": "122",
+  "nome_reduzido": "BCO BRADESCO BERJ S.A.",
+  "key": "122 - BCO BRADESCO BERJ S.A."
+ },
+ {
+  "valor": "124",
+  "nome_reduzido": "BCO WOORI BANK DO BRASIL S.A.",
+  "key": "124 - BCO WOORI BANK DO BRASIL S.A."
+ },
+ {
+  "valor": "125",
+  "nome_reduzido": "BANCO GENIAL",
+  "key": "125 - BANCO GENIAL"
+ },
+ {
+  "valor": "126",
+  "nome_reduzido": "BR PARTNERS BI",
+  "key": "126 - BR PARTNERS BI"
+ },
+ {
+  "valor": "127",
+  "nome_reduzido": "keyEPE CVC S.A.",
+  "key": "127 - keyEPE CVC S.A."
+ },
+ {
+  "valor": "128",
+  "nome_reduzido": "BRAZA BANK S.A. BCO DE CÂMBIO",
+  "key": "128 - BRAZA BANK S.A. BCO DE CÂMBIO"
+ },
+ {
+  "valor": "129",
+  "nome_reduzido": "UBS BRASIL BI S.A.",
+  "key": "129 - UBS BRASIL BI S.A."
+ },
+ {
+  "valor": "130",
+  "nome_reduzido": "CARUANA SCFI",
+  "key": "130 - CARUANA SCFI"
+ },
+ {
+  "valor": "131",
+  "nome_reduzido": "TULLETT PREBON BRASIL CVC LTDA",
+  "key": "131 - TULLETT PREBON BRASIL CVC LTDA"
+ },
+ {
+  "valor": "132",
+  "nome_reduzido": "ICBC DO BRASIL BM S.A.",
+  "key": "132 - ICBC DO BRASIL BM S.A."
+ },
+ {
+  "valor": "133",
+  "nome_reduzido": "CRESOL CONFEDERAÇÃO",
+  "key": "133 - CRESOL CONFEDERAÇÃO"
+ },
+ {
+  "valor": "134",
+  "nome_reduzido": "BGC LIQUIDEZ DTVM LTDA",
+  "key": "134 - BGC LIQUIDEZ DTVM LTDA"
+ },
+ {
+  "valor": "136",
+  "nome_reduzido": "CONF NAC COOP CENTRAIS UNICRED",
+  "key": "136 - CONF NAC COOP CENTRAIS UNICRED"
+ },
+ {
+  "valor": "138",
+  "nome_reduzido": "GET MONEY CC LTDA",
+  "key": "138 - GET MONEY CC LTDA"
+ },
+ {
+  "valor": "139",
+  "nome_reduzido": "INTESA SANPAOLO BRASIL S.A. BM",
+  "key": "139 - INTESA SANPAOLO BRASIL S.A. BM"
+ },
+ {
+  "valor": "140",
+  "nome_reduzido": "NU INVEST CORRETORA DE VALORES S.A.",
+  "key": "140 - NU INVEST CORRETORA DE VALORES S.A."
+ },
+ {
+  "valor": "141",
+  "nome_reduzido": "MASTER BI S.A.",
+  "key": "141 - MASTER BI S.A."
+ },
+ {
+  "valor": "142",
+  "nome_reduzido": "BROKER BRASIL CC LTDA.",
+  "key": "142 - BROKER BRASIL CC LTDA."
+ },
+ {
+  "valor": "143",
+  "nome_reduzido": "TREVISO CC S.A.",
+  "key": "143 - TREVISO CC S.A."
+ },
+ {
+  "valor": "144",
+  "nome_reduzido": "BEXS BCO DE CAMBIO S.A.",
+  "key": "144 - BEXS BCO DE CAMBIO S.A."
+ },
+ {
+  "valor": "145",
+  "nome_reduzido": "LEVYCAM CCV LTDA",
+  "key": "145 - LEVYCAM CCV LTDA"
+ },
+ {
+  "valor": "146",
+  "nome_reduzido": "GUITTA CC LTDA",
+  "key": "146 - GUITTA CC LTDA"
+ },
+ {
+  "valor": "149",
+  "nome_reduzido": "FACTA S.A. CFI",
+  "key": "149 - FACTA S.A. CFI"
+ },
+ {
+  "valor": "157",
+  "nome_reduzido": "ICAP DO BRASIL CTVM LTDA.",
+  "key": "157 - ICAP DO BRASIL CTVM LTDA."
+ },
+ {
+  "valor": "159",
+  "nome_reduzido": "CASA CREDITO S.A. SCM",
+  "key": "159 - CASA CREDITO S.A. SCM"
+ },
+ {
+  "valor": "173",
+  "nome_reduzido": "BRL TRUST DTVM SA",
+  "key": "173 - BRL TRUST DTVM SA"
+ },
+ {
+  "valor": "174",
+  "nome_reduzido": "PEFISA S.A. - C.F.I.",
+  "key": "174 - PEFISA S.A. - C.F.I."
+ },
+ {
+  "valor": "177",
+  "nome_reduzido": "GUIDE",
+  "key": "177 - GUIDE"
+ },
+ {
+  "valor": "180",
+  "nome_reduzido": "CM CAPITAL MARKETS CCTVM LTDA",
+  "key": "180 - CM CAPITAL MARKETS CCTVM LTDA"
+ },
+ {
+  "valor": "183",
+  "nome_reduzido": "SOCRED SA - SCMEPP",
+  "key": "183 - SOCRED SA - SCMEPP"
+ },
+ {
+  "valor": "184",
+  "nome_reduzido": "BCO ITAÚ BBA S.A.",
+  "key": "184 - BCO ITAÚ BBA S.A."
+ },
+ {
+  "valor": "188",
+  "nome_reduzido": "ATIVA S.A. INVESTIMENTOS CCTVM",
+  "key": "188 - ATIVA S.A. INVESTIMENTOS CCTVM"
+ },
+ {
+  "valor": "189",
+  "nome_reduzido": "HS FINANCEIRA",
+  "key": "189 - HS FINANCEIRA"
+ },
+ {
+  "valor": "190",
+  "nome_reduzido": "SERVICOOP",
+  "key": "190 - SERVICOOP"
+ },
+ {
+  "valor": "191",
+  "nome_reduzido": "NOVA FUTURA CTVM LTDA.",
+  "key": "191 - NOVA FUTURA CTVM LTDA."
+ },
+ {
+  "valor": "194",
+  "nome_reduzido": "PARMETAL DTVM LTDA",
+  "key": "194 - PARMETAL DTVM LTDA"
+ },
+ {
+  "valor": "195",
+  "nome_reduzido": "VALOR SCD S.A.",
+  "key": "195 - VALOR SCD S.A."
+ },
+ {
+  "valor": "196",
+  "nome_reduzido": "FAIR CC S.A.",
+  "key": "196 - FAIR CC S.A."
+ },
+ {
+  "valor": "197",
+  "nome_reduzido": "STONE IP S.A.",
+  "key": "197 - STONE IP S.A."
+ },
+ {
+  "valor": "208",
+  "nome_reduzido": "BANCO BTG PACTUAL S.A.",
+  "key": "208 - BANCO BTG PACTUAL S.A."
+ },
+ {
+  "valor": "212",
+  "nome_reduzido": "BANCO ORIGINAL",
+  "key": "212 - BANCO ORIGINAL"
+ },
+ {
+  "valor": "213",
+  "nome_reduzido": "BCO ARBI S.A.",
+  "key": "213 - BCO ARBI S.A."
+ },
+ {
+  "valor": "217",
+  "nome_reduzido": "BANCO JOHN DEERE S.A.",
+  "key": "217 - BANCO JOHN DEERE S.A."
+ },
+ {
+  "valor": "218",
+  "nome_reduzido": "BCO BS2 S.A.",
+  "key": "218 - BCO BS2 S.A."
+ },
+ {
+  "valor": "222",
+  "nome_reduzido": "BCO CRÉDIT AGRICOLE BR S.A.",
+  "key": "222 - BCO CRÉDIT AGRICOLE BR S.A."
+ },
+ {
+  "valor": "224",
+  "nome_reduzido": "BCO FIBRA S.A.",
+  "key": "224 - BCO FIBRA S.A."
+ },
+ {
+  "valor": "233",
+  "nome_reduzido": "BANCO CIFRA",
+  "key": "233 - BANCO CIFRA"
+ },
+
+ {
+  "valor": "241",
+  "nome_reduzido": "BCO CLASSICO S.A.",
+  "key": "241 - BCO CLASSICO S.A."
+ },
+ {
+  "valor": "243",
+  "nome_reduzido": "BANCO MASTER",
+  "key": "243 - BANCO MASTER"
+ },
+ {
+  "valor": "246",
+  "nome_reduzido": "BCO ABC BRASIL S.A.",
+  "key": "246 - BCO ABC BRASIL S.A."
+ },
+ {
+  "valor": "249",
+  "nome_reduzido": "BANCO INVESTCRED UNIBANCO S.A.",
+  "key": "249 - BANCO INVESTCRED UNIBANCO S.A."
+ },
+ {
+  "valor": "250",
+  "nome_reduzido": "BCV - BCO, CRÉDITO E VAREJO S.A.",
+  "key": "250 - BCV - BCO, CRÉDITO E VAREJO S.A."
+ },
+ {
+  "valor": "253",
+  "nome_reduzido": "BEXS CC S.A.",
+  "key": "253 - BEXS CC S.A."
+ },
+ {
+  "valor": "254",
+  "nome_reduzido": "PARANA BCO S.A.",
+  "key": "254 - PARANA BCO S.A."
+ },
+ {
+  "valor": "259",
+  "nome_reduzido": "MONEYCORP BCO DE CÂMBIO S.A.",
+  "key": "259 - MONEYCORP BCO DE CÂMBIO S.A."
+ },
+ {
+  "valor": "260",
+  "nome_reduzido": "NU PAGAMENTOS - IP",
+  "key": "260 - NU PAGAMENTOS - IP"
+ },
+ {
+  "valor": "265",
+  "nome_reduzido": "BCO FATOR S.A.",
+  "key": "265 - BCO FATOR S.A."
+ },
+ {
+  "valor": "266",
+  "nome_reduzido": "BCO CEDULA S.A.",
+  "key": "266 - BCO CEDULA S.A."
+ },
+ {
+  "valor": "268",
+  "nome_reduzido": "BARI CIA HIPOTECÁRIA",
+  "key": "268 - BARI CIA HIPOTECÁRIA"
+ },
+ {
+  "valor": "269",
+  "nome_reduzido": "BCO HSBC S.A.",
+  "key": "269 - BCO HSBC S.A."
+ },
+ {
+  "valor": "270",
+  "nome_reduzido": "SAGITUR CC",
+  "key": "270 - SAGITUR CC"
+ },
+ {
+  "valor": "271",
+  "nome_reduzido": "IB CCTVM S.A.",
+  "key": "271 - IB CCTVM S.A."
+ },
+ {
+  "valor": "272",
+  "nome_reduzido": "AGK CC S.A.",
+  "key": "272 - AGK CC S.A."
+ },
+ {
+  "valor": "273",
+  "nome_reduzido": "CCR DE SÃO MIGUEL DO OESTE",
+  "key": "273 - CCR DE SÃO MIGUEL DO OESTE"
+ },
+ {
+  "valor": "274",
+  "nome_reduzido": "BMP SCMEPP LTDA",
+  "key": "274 - BMP SCMEPP LTDA"
+ },
+ {
+  "valor": "276",
+  "nome_reduzido": "BCO SENFF S.A.",
+  "key": "276 - BCO SENFF S.A."
+ },
+ {
+  "valor": "278",
+  "nome_reduzido": "GENIAL INVESTIMENTOS CVM S.A.",
+  "key": "278 - GENIAL INVESTIMENTOS CVM S.A."
+ },
+ {
+  "valor": "279",
+  "nome_reduzido": "COOP DE PRIMAVERA DO LESTE",
+  "key": "279 - COOP DE PRIMAVERA DO LESTE"
+ },
+ {
+  "valor": "280",
+  "nome_reduzido": "WILL FINANCEIRA S.A.CFI",
+  "key": "280 - WILL FINANCEIRA S.A.CFI"
+ },
+ {
+  "valor": "281",
+  "nome_reduzido": "CCR COOPAVEL",
+  "key": "281 - CCR COOPAVEL"
+ },
+ {
+  "valor": "283",
+  "nome_reduzido": "RB INVESTIMENTOS DTVM LTDA.",
+  "key": "283 - RB INVESTIMENTOS DTVM LTDA."
+ },
+ {
+  "valor": "285",
+  "nome_reduzido": "FRENTE CC S.A.",
+  "key": "285 - FRENTE CC S.A."
+ },
+ {
+  "valor": "288",
+  "nome_reduzido": "CAROL DTVM LTDA.",
+  "key": "288 - CAROL DTVM LTDA."
+ },
+ {
+  "valor": "289",
+  "nome_reduzido": "EFX CC LTDA.",
+  "key": "289 - EFX CC LTDA."
+ },
+ {
+  "valor": "290",
+  "nome_reduzido": "PAGSEGURO INTERNET IP S.A.",
+  "key": "290 - PAGSEGURO INTERNET IP S.A."
+ },
+ {
+  "valor": "292",
+  "nome_reduzido": "BS2 DTVM S.A.",
+  "key": "292 - BS2 DTVM S.A."
+ },
+ {
+  "valor": "293",
+  "nome_reduzido": "LASTRO RDV DTVM LTDA",
+  "key": "293 - LASTRO RDV DTVM LTDA"
+ },
+ {
+  "valor": "296",
+  "nome_reduzido": "OZ CORRETORA DE CÂMBIO S.A.",
+  "key": "296 - OZ CORRETORA DE CÂMBIO S.A."
+ },
+ {
+  "valor": "298",
+  "nome_reduzido": "VIPS CC LTDA.",
+  "key": "298 - VIPS CC LTDA."
+ },
+ {
+  "valor": "299",
+  "nome_reduzido": "BCO AFINZ S.A. - BM",
+  "key": "299 - BCO AFINZ S.A. - BM"
+ },
+ {
+  "valor": "300",
+  "nome_reduzido": "BCO LA NACION ARGENTINA",
+  "key": "300 - BCO LA NACION ARGENTINA"
+ },
+ {
+  "valor": "301",
+  "nome_reduzido": "DOCK IP S.A.",
+  "key": "301 - DOCK IP S.A."
+ },
+ {
+  "valor": "306",
+  "nome_reduzido": "PORTOPAR DTVM LTDA",
+  "key": "306 - PORTOPAR DTVM LTDA"
+ },
+ {
+  "valor": "307",
+  "nome_reduzido": "TERRA INVESTIMENTOS DTVM",
+  "key": "307 - TERRA INVESTIMENTOS DTVM"
+ },
+ {
+  "valor": "309",
+  "nome_reduzido": "CAMBIONET CC LTDA",
+  "key": "309 - CAMBIONET CC LTDA"
+ },
+ {
+  "valor": "310",
+  "nome_reduzido": "VORTX DTVM LTDA.",
+  "key": "310 - VORTX DTVM LTDA."
+ },
+ {
+  "valor": "311",
+  "nome_reduzido": "DOURADA CORRETORA",
+  "key": "311 - DOURADA CORRETORA"
+ },
+ {
+  "valor": "312",
+  "nome_reduzido": "HSCM SCMEPP LTDA.",
+  "key": "312 - HSCM SCMEPP LTDA."
+ },
+ {
+  "valor": "313",
+  "nome_reduzido": "AMAZÔNIA CC LTDA.",
+  "key": "313 - AMAZÔNIA CC LTDA."
+ },
+ {
+  "valor": "318",
+  "nome_reduzido": "BCO BMG S.A.",
+  "key": "318 - BCO BMG S.A."
+ },
+ {
+  "valor": "319",
+  "nome_reduzido": "OM DTVM LTDA",
+  "key": "319 - OM DTVM LTDA"
+ },
+ {
+  "valor": "320",
+  "nome_reduzido": "BCO CCB BRASIL S.A.",
+  "key": "320 - BCO CCB BRASIL S.A."
+ },
+ {
+  "valor": "321",
+  "nome_reduzido": "CREFAZ SCMEPP LTDA",
+  "key": "321 - CREFAZ SCMEPP LTDA"
+ },
+ {
+  "valor": "322",
+  "nome_reduzido": "CCR DE ABELARDO LUZ",
+  "key": "322 - CCR DE ABELARDO LUZ"
+ },
+ {
+  "valor": "323",
+  "nome_reduzido": "MERCADO PAGO IP LTDA.",
+  "key": "323 - MERCADO PAGO IP LTDA."
+ },
+ {
+  "valor": "324",
+  "nome_reduzido": "CARTOS SCD S.A.",
+  "key": "324 - CARTOS SCD S.A."
+ },
+ {
+  "valor": "325",
+  "nome_reduzido": "ÓRAMA DTVM S.A.",
+  "key": "325 - ÓRAMA DTVM S.A."
+ },
+ {
+  "valor": "326",
+  "nome_reduzido": "PARATI - CFI S.A.",
+  "key": "326 - PARATI - CFI S.A."
+ },
+ {
+  "valor": "328",
+  "nome_reduzido": "CECM FABRIC CALÇADOS SAPIRANGA",
+  "key": "328 - CECM FABRIC CALÇADOS SAPIRANGA"
+ },
+ {
+  "valor": "329",
+  "nome_reduzido": "QI SCD S.A.",
+  "key": "329 - QI SCD S.A."
+ },
+ {
+  "valor": "330",
+  "nome_reduzido": "BANCO BARI S.A.",
+  "key": "330 - BANCO BARI S.A."
+ },
+ {
+  "valor": "331",
+  "nome_reduzido": "FRAM CAPITAL DTVM S.A.",
+  "key": "331 - FRAM CAPITAL DTVM S.A."
+ },
+ {
+  "valor": "332",
+  "nome_reduzido": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO",
+  "key": "332 - ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO"
+ },
+ {
+  "valor": "334",
+  "nome_reduzido": "BANCO BESA S.A.",
+  "key": "334 - BANCO BESA S.A."
+ },
+ {
+  "valor": "335",
+  "nome_reduzido": "BANCO DIGIO",
+  "key": "335 - BANCO DIGIO"
+ },
+ {
+  "valor": "336",
+  "nome_reduzido": "BCO C6 S.A.",
+  "key": "336 - BCO C6 S.A."
+ },
+ {
+  "valor": "340",
+  "nome_reduzido": "SUPERDIGITAL I.P. S.A.",
+  "key": "340 - SUPERDIGITAL I.P. S.A."
+ },
+
+ {
+  "valor": "342",
+  "nome_reduzido": "CREDITAS SCD",
+  "key": "342 - CREDITAS SCD"
+ },
+ {
+  "valor": "343",
+  "nome_reduzido": "FFA SCMEPP LTDA.",
+  "key": "343 - FFA SCMEPP LTDA."
+ },
+ {
+  "valor": "348",
+  "nome_reduzido": "BCO XP S.A.",
+  "key": "348 - BCO XP S.A."
+ },
+ {
+  "valor": "349",
+  "nome_reduzido": "AL5 S.A. CFI",
+  "key": "349 - AL5 S.A. CFI"
+ },
+ {
+  "valor": "350",
+  "nome_reduzido": "CREHNOR LARANJEIRAS",
+  "key": "350 - CREHNOR LARANJEIRAS"
+ },
+ {
+  "valor": "352",
+  "nome_reduzido": "TORO CTVM S.A.",
+  "key": "352 - TORO CTVM S.A."
+ },
+ {
+  "valor": "355",
+  "nome_reduzido": "ÓTIMO SCD S.A.",
+  "key": "355 - ÓTIMO SCD S.A."
+ },
+ {
+  "valor": "358",
+  "nome_reduzido": "MIDWAY S.A. - SCFI",
+  "key": "358 - MIDWAY S.A. - SCFI"
+ },
+ {
+  "valor": "359",
+  "nome_reduzido": "ZEMA CFI S\/A",
+  "key": "359 - ZEMA CFI S\/A"
+ },
+ {
+  "valor": "360",
+  "nome_reduzido": "TRINUS CAPITAL DTVM",
+  "key": "360 - TRINUS CAPITAL DTVM"
+ },
+ {
+  "valor": "362",
+  "nome_reduzido": "CIELO IP S.A.",
+  "key": "362 - CIELO IP S.A."
+ },
+ {
+  "valor": "363",
+  "nome_reduzido": "SINGULARE CTVM S.A.",
+  "key": "363 - SINGULARE CTVM S.A."
+ },
+ {
+  "valor": "364",
+  "nome_reduzido": "EFÍ S.A. - IP",
+  "key": "364 - EFÍ S.A. - IP"
+ },
+ {
+  "valor": "365",
+  "nome_reduzido": "SIMPAUL",
+  "key": "365 - SIMPAUL"
+ },
+ {
+  "valor": "366",
+  "nome_reduzido": "BCO SOCIETE GENERALE BRASIL",
+  "key": "366 - BCO SOCIETE GENERALE BRASIL"
+ },
+ {
+  "valor": "367",
+  "nome_reduzido": "VITREO DTVM S.A.",
+  "key": "367 - VITREO DTVM S.A."
+ },
+ {
+  "valor": "368",
+  "nome_reduzido": "BCO CSF S.A.",
+  "key": "368 - BCO CSF S.A."
+ },
+ {
+  "valor": "370",
+  "nome_reduzido": "BCO MIZUHO S.A.",
+  "key": "370 - BCO MIZUHO S.A."
+ },
+ {
+  "valor": "371",
+  "nome_reduzido": "WARREN CVMC LTDA",
+  "key": "371 - WARREN CVMC LTDA"
+ },
+ {
+  "valor": "373",
+  "nome_reduzido": "UP.P SEP S.A.",
+  "key": "373 - UP.P SEP S.A."
+ },
+ {
+  "valor": "374",
+  "nome_reduzido": "REALIZE CFI S.A.",
+  "key": "374 - REALIZE CFI S.A."
+ },
+ {
+  "valor": "376",
+  "nome_reduzido": "BCO J.P. MORGAN S.A.",
+  "key": "376 - BCO J.P. MORGAN S.A."
+ },
+ {
+  "valor": "377",
+  "nome_reduzido": "BMS SCD S.A.",
+  "key": "377 - BMS SCD S.A."
+ },
+ {
+  "valor": "378",
+  "nome_reduzido": "BCO BRASILEIRO DE CRÉDITO S.A.",
+  "key": "378 - BCO BRASILEIRO DE CRÉDITO S.A."
+ },
+ {
+  "valor": "379",
+  "nome_reduzido": "CECM COOPERFORTE",
+  "key": "379 - CECM COOPERFORTE"
+ },
+ {
+  "valor": "380",
+  "nome_reduzido": "PICPAY",
+  "key": "380 - PICPAY"
+ },
+ {
+  "valor": "381",
+  "nome_reduzido": "BCO MERCEDES-BENZ S.A.",
+  "key": "381 - BCO MERCEDES-BENZ S.A."
+ },
+ {
+  "valor": "382",
+  "nome_reduzido": "FIDUCIA SCMEPP LTDA",
+  "key": "382 - FIDUCIA SCMEPP LTDA"
+ },
+ {
+  "valor": "383",
+  "nome_reduzido": "EBANX IP LTDA.",
+  "key": "383 - EBANX IP LTDA."
+ },
+ {
+  "valor": "384",
+  "nome_reduzido": "GLOBAL SCM LTDA",
+  "key": "384 - GLOBAL SCM LTDA"
+ },
+ {
+  "valor": "385",
+  "nome_reduzido": "CECM DOS TRAB.PORT. DA G.VITOR",
+  "key": "385 - CECM DOS TRAB.PORT. DA G.VITOR"
+ },
+ {
+  "valor": "386",
+  "nome_reduzido": "NU FINANCEIRA S.A. CFI",
+  "key": "386 - NU FINANCEIRA S.A. CFI"
+ },
+ {
+  "valor": "387",
+  "nome_reduzido": "BCO TOYOTA DO BRASIL S.A.",
+  "key": "387 - BCO TOYOTA DO BRASIL S.A."
+ },
+ {
+  "valor": "389",
+  "nome_reduzido": "BCO MERCANTIL DO BRASIL S.A.",
+  "key": "389 - BCO MERCANTIL DO BRASIL S.A."
+ },
+ {
+  "valor": "390",
+  "nome_reduzido": "BCO GM S.A.",
+  "key": "390 - BCO GM S.A."
+ },
+ {
+  "valor": "391",
+  "nome_reduzido": "CCR DE IBIAM",
+  "key": "391 - CCR DE IBIAM"
+ },
+ {
+  "valor": "393",
+  "nome_reduzido": "BCO VOLKSWAGEN S.A",
+  "key": "393 - BCO VOLKSWAGEN S.A"
+ },
+ {
+  "valor": "394",
+  "nome_reduzido": "BCO BRADESCO FINANC. S.A.",
+  "key": "394 - BCO BRADESCO FINANC. S.A."
+ },
+ {
+  "valor": "395",
+  "nome_reduzido": "F D GOLD DTVM LTDA",
+  "key": "395 - F D GOLD DTVM LTDA"
+ },
+ {
+  "valor": "396",
+  "nome_reduzido": "HUB IP S.A.",
+  "key": "396 - HUB IP S.A."
+ },
+ {
+  "valor": "397",
+  "nome_reduzido": "LISTO SCD S.A.",
+  "key": "397 - LISTO SCD S.A."
+ },
+ {
+  "valor": "398",
+  "nome_reduzido": "IDEAL CTVM S.A.",
+  "key": "398 - IDEAL CTVM S.A."
+ },
+ {
+  "valor": "399",
+  "nome_reduzido": "KIRTON BANK",
+  "key": "399 - KIRTON BANK"
+ },
+ {
+  "valor": "400",
+  "nome_reduzido": "COOP CREDITAG",
+  "key": "400 - COOP CREDITAG"
+ },
+ {
+  "valor": "401",
+  "nome_reduzido": "IUGU IP S.A.",
+  "key": "401 - IUGU IP S.A."
+ },
+ {
+  "valor": "402",
+  "nome_reduzido": "COBUCCIO S.A. SCFI",
+  "key": "402 - COBUCCIO S.A. SCFI"
+ },
+ {
+  "valor": "403",
+  "nome_reduzido": "CORA SCD S.A.",
+  "key": "403 - CORA SCD S.A."
+ },
+ {
+  "valor": "404",
+  "nome_reduzido": "SUMUP SCD S.A.",
+  "key": "404 - SUMUP SCD S.A."
+ },
+ {
+  "valor": "406",
+  "nome_reduzido": "ACCREDITO SCD S.A.",
+  "key": "406 - ACCREDITO SCD S.A."
+ },
+ {
+  "valor": "407",
+  "nome_reduzido": "ÍNDIGO INVESTIMENTOS DTVM LTDA.",
+  "key": "407 - ÍNDIGO INVESTIMENTOS DTVM LTDA."
+ },
+ {
+  "valor": "408",
+  "nome_reduzido": "BONUSPAGO SCD S.A.",
+  "key": "408 - BONUSPAGO SCD S.A."
+ },
+ {
+  "valor": "410",
+  "nome_reduzido": "PLANNER SOCIEDADE DE CRÉDITO DIRETO",
+  "key": "410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO"
+ },
+ {
+  "valor": "411",
+  "nome_reduzido": "VIA CERTA FINANCIADORA S.A. - CFI",
+  "key": "411 - VIA CERTA FINANCIADORA S.A. - CFI"
+ },
+ {
+  "valor": "412",
+  "nome_reduzido": "SOCIAL BANK S\/A",
+  "key": "412 - SOCIAL BANK S\/A"
+ },
+ {
+  "valor": "413",
+  "nome_reduzido": "BCO BV S.A.",
+  "key": "413 - BCO BV S.A."
+ },
+ {
+  "valor": "414",
+  "nome_reduzido": "LEND SCD S.A.",
+  "key": "414 - LEND SCD S.A."
+ },
+ {
+  "valor": "416",
+  "nome_reduzido": "LAMARA SCD S.A.",
+  "key": "416 - LAMARA SCD S.A."
+ },
+ {
+  "valor": "418",
+  "nome_reduzido": "ZIPDIN SCD S.A.",
+  "key": "418 - ZIPDIN SCD S.A."
+ },
+ {
+  "valor": "419",
+  "nome_reduzido": "NUMBRS SCD S.A.",
+  "key": "419 - NUMBRS SCD S.A."
+ },
+ {
+  "valor": "421",
+  "nome_reduzido": "CC LAR CREDI",
+  "key": "421 - CC LAR CREDI"
+ },
+ {
+  "valor": "422",
+  "nome_reduzido": "BCO SAFRA S.A.",
+  "key": "422 - BCO SAFRA S.A."
+ },
+ {
+  "valor": "423",
+  "nome_reduzido": "COLUNA S.A. DTVM",
+  "key": "423 - COLUNA S.A. DTVM"
+ },
+ {
+  "valor": "425",
+  "nome_reduzido": "SOCINAL S.A. CFI",
+  "key": "425 - SOCINAL S.A. CFI"
+ },
+ {
+  "valor": "426",
+  "nome_reduzido": "NEON FINANCEIRA - CFI S.A.",
+  "key": "426 - NEON FINANCEIRA - CFI S.A."
+ },
+ {
+  "valor": "427",
+  "nome_reduzido": "CRED-UFES",
+  "key": "427 - CRED-UFES"
+ },
+ {
+  "valor": "428",
+  "nome_reduzido": "CREDSYSTEM SCD S.A.",
+  "key": "428 - CREDSYSTEM SCD S.A."
+ },
+ {
+  "valor": "429",
+  "nome_reduzido": "CREDIARE CFI S.A.",
+  "key": "429 - CREDIARE CFI S.A."
+ },
+ {
+  "valor": "430",
+  "nome_reduzido": "CCR SEARA",
+  "key": "430 - CCR SEARA"
+ },
+ {
+  "valor": "433",
+  "nome_reduzido": "BR-CAPITAL DTVM S.A.",
+  "key": "433 - BR-CAPITAL DTVM S.A."
+ },
+ {
+  "valor": "435",
+  "nome_reduzido": "DELCRED SCD S.A.",
+  "key": "435 - DELCRED SCD S.A."
+ },
+ {
+  "valor": "438",
+  "nome_reduzido": "TRUSTEE DTVM LTDA.",
+  "key": "438 - TRUSTEE DTVM LTDA."
+ },
+ {
+  "valor": "439",
+  "nome_reduzido": "ID CTVM",
+  "key": "439 - ID CTVM"
+ },
+ {
+  "valor": "440",
+  "nome_reduzido": "CREDIBRF COOP",
+  "key": "440 - CREDIBRF COOP"
+ },
+ {
+  "valor": "442",
+  "nome_reduzido": "MAGNETIS - DTVM",
+  "key": "442 - MAGNETIS - DTVM"
+ },
+ {
+  "valor": "443",
+  "nome_reduzido": "CREDIHOME SCD",
+  "key": "443 - CREDIHOME SCD"
+ },
+ {
+  "valor": "444",
+  "nome_reduzido": "TRINUS SCD S.A.",
+  "key": "444 - TRINUS SCD S.A."
+ },
+ {
+  "valor": "445",
+  "nome_reduzido": "PLANTAE CFI",
+  "key": "445 - PLANTAE CFI"
+ },
+ {
+  "valor": "447",
+  "nome_reduzido": "MIRAE ASSET CCTVM LTDA",
+  "key": "447 - MIRAE ASSET CCTVM LTDA"
+ },
+ {
+  "valor": "448",
+  "nome_reduzido": "HEMERA DTVM LTDA.",
+  "key": "448 - HEMERA DTVM LTDA."
+ },
+ {
+  "valor": "449",
+  "nome_reduzido": "DM",
+  "key": "449 - DM"
+ },
+ {
+  "valor": "450",
+  "nome_reduzido": "FITBANK IP",
+  "key": "450 - FITBANK IP"
+ },
+ {
+  "valor": "451",
+  "nome_reduzido": "J17 - SCD S\/A",
+  "key": "451 - J17 - SCD S\/A"
+ },
+ {
+  "valor": "452",
+  "nome_reduzido": "CREDIFIT SCD S.A.",
+  "key": "452 - CREDIFIT SCD S.A."
+ },
+ {
+  "valor": "454",
+  "nome_reduzido": "MÉRITO DTVM LTDA.",
+  "key": "454 - MÉRITO DTVM LTDA."
+ },
+ {
+  "valor": "455",
+  "nome_reduzido": "FÊNIX DTVM LTDA.",
+  "key": "455 - FÊNIX DTVM LTDA."
+ },
+ {
+  "valor": "456",
+  "nome_reduzido": "BCO MUFG BRASIL S.A.",
+  "key": "456 - BCO MUFG BRASIL S.A."
+ },
+ {
+  "valor": "457",
+  "nome_reduzido": "UY3 SCD S\/A",
+  "key": "457 - UY3 SCD S\/A"
+ },
+ {
+  "valor": "458",
+  "nome_reduzido": "HEDGE INVESTMENTS DTVM LTDA.",
+  "key": "458 - HEDGE INVESTMENTS DTVM LTDA."
+ },
+ {
+  "valor": "459",
+  "nome_reduzido": "CCM SERV. PÚBLICOS SP",
+  "key": "459 - CCM SERV. PÚBLICOS SP"
+ },
+ {
+  "valor": "460",
+  "nome_reduzido": "UNAVANTI SCD S\/A",
+  "key": "460 - UNAVANTI SCD S\/A"
+ },
+ {
+  "valor": "461",
+  "nome_reduzido": "ASAAS IP S.A.",
+  "key": "461 - ASAAS IP S.A."
+ },
+ {
+  "valor": "462",
+  "nome_reduzido": "STARK SCD S.A.",
+  "key": "462 - STARK SCD S.A."
+ },
+ {
+  "valor": "463",
+  "nome_reduzido": "AZUMI DTVM",
+  "key": "463 - AZUMI DTVM"
+ },
+ {
+  "valor": "464",
+  "nome_reduzido": "BCO SUMITOMO MITSUI BRASIL S.A.",
+  "key": "464 - BCO SUMITOMO MITSUI BRASIL S.A."
+ },
+ {
+  "valor": "465",
+  "nome_reduzido": "CAPITAL CONSIG SCD S.A.",
+  "key": "465 - CAPITAL CONSIG SCD S.A."
+ },
+ {
+  "valor": "467",
+  "nome_reduzido": "MASTER S\/A CCTVM",
+  "key": "467 - MASTER S\/A CCTVM"
+ },
+ {
+  "valor": "468",
+  "nome_reduzido": "PORTOSEG S.A. CFI",
+  "key": "468 - PORTOSEG S.A. CFI"
+ },
+ {
+  "valor": "469",
+  "nome_reduzido": "LIGA INVEST DTVM LTDA.",
+  "key": "469 - LIGA INVEST DTVM LTDA."
+ },
+ {
+  "valor": "470",
+  "nome_reduzido": "CDC SCD S.A.",
+  "key": "470 - CDC SCD S.A."
+ },
+ {
+  "valor": "471",
+  "nome_reduzido": "CECM SERV PUBL PINHÃO",
+  "key": "471 - CECM SERV PUBL PINHÃO"
+ },
+ {
+  "valor": "473",
+  "nome_reduzido": "BCO CAIXA GERAL BRASIL S.A.",
+  "key": "473 - BCO CAIXA GERAL BRASIL S.A."
+ },
+ {
+  "valor": "475",
+  "nome_reduzido": "BCO YAMAHA MOTOR S.A.",
+  "key": "475 - BCO YAMAHA MOTOR S.A."
+ },
+ {
+  "valor": "477",
+  "nome_reduzido": "CITIBANK N.A.",
+  "key": "477 - CITIBANK N.A."
+ },
+ {
+  "valor": "478",
+  "nome_reduzido": "GAZINCRED S.A. SCFI",
+  "key": "478 - GAZINCRED S.A. SCFI"
+ },
+ {
+  "valor": "479",
+  "nome_reduzido": "BCO ITAUBANK S.A.",
+  "key": "479 - BCO ITAUBANK S.A."
+ },
+ {
+  "valor": "481",
+  "nome_reduzido": "SUPERLÓGICA SCD S.A.",
+  "key": "481 - SUPERLÓGICA SCD S.A."
+ },
+ {
+  "valor": "482",
+  "nome_reduzido": "SBCASH SCD",
+  "key": "482 - SBCASH SCD"
+ },
+ {
+  "valor": "484",
+  "nome_reduzido": "MAF DTVM SA",
+  "key": "484 - MAF DTVM SA"
+ },
+ {
+  "valor": "487",
+  "nome_reduzido": "DEUTSCHE BANK S.A.BCO ALEMAO",
+  "key": "487 - DEUTSCHE BANK S.A.BCO ALEMAO"
+ },
+ {
+  "valor": "488",
+  "nome_reduzido": "JPMORGAN CHASE BANK",
+  "key": "488 - JPMORGAN CHASE BANK"
+ },
+ {
+  "valor": "495",
+  "nome_reduzido": "BCO LA PROVINCIA B AIRES BCE",
+  "key": "495 - BCO LA PROVINCIA B AIRES BCE"
+ },
+ {
+  "valor": "505",
+  "nome_reduzido": "BCO CREDIT SUISSE S.A.",
+  "key": "505 - BCO CREDIT SUISSE S.A."
+ },
+ {
+  "valor": "506",
+  "nome_reduzido": "RJI",
+  "key": "506 - RJI"
+ },
+ {
+  "valor": "507",
+  "nome_reduzido": "SCFI EFÍ S.A.",
+  "key": "507 - SCFI EFÍ S.A."
+ },
+ {
+  "valor": "508",
+  "nome_reduzido": "AVENUE SECURITIES DTVM LTDA.",
+  "key": "508 - AVENUE SECURITIES DTVM LTDA."
+ },
+ {
+  "valor": "509",
+  "nome_reduzido": "CELCOIN IP S.A.",
+  "key": "509 - CELCOIN IP S.A."
+ },
+ {
+  "valor": "510",
+  "nome_reduzido": "FFCRED SCD S.A.",
+  "key": "510 - FFCRED SCD S.A."
+ },
+ {
+  "valor": "511",
+  "nome_reduzido": "MAGNUM SCD",
+  "key": "511 - MAGNUM SCD"
+ },
+ {
+  "valor": "512",
+  "nome_reduzido": "FINVEST DTVM",
+  "key": "512 - FINVEST DTVM"
+ },
+ {
+  "valor": "513",
+  "nome_reduzido": "ATF CREDIT SCD S.A.",
+  "key": "513 - ATF CREDIT SCD S.A."
+ },
+ {
+  "valor": "516",
+  "nome_reduzido": "QISTA S.A. CFI",
+  "key": "516 - QISTA S.A. CFI"
+ },
+ {
+  "valor": "518",
+  "nome_reduzido": "MERCADO CRÉDITO SCFI S.A.",
+  "key": "518 - MERCADO CRÉDITO SCFI S.A."
+ },
+ {
+  "valor": "519",
+  "nome_reduzido": "LIONS TRUST DTVM",
+  "key": "519 - LIONS TRUST DTVM"
+ },
+ {
+  "valor": "521",
+  "nome_reduzido": "PEAK SEP S.A.",
+  "key": "521 - PEAK SEP S.A."
+ },
+ {
+  "valor": "522",
+  "nome_reduzido": "RED SCD S.A.",
+  "key": "522 - RED SCD S.A."
+ },
+ {
+  "valor": "523",
+  "nome_reduzido": "HR DIGITAL SCD",
+  "key": "523 - HR DIGITAL SCD"
+ },
+ {
+  "valor": "524",
+  "nome_reduzido": "WNT CAPITAL DTVM",
+  "key": "524 - WNT CAPITAL DTVM"
+ },
+ {
+  "valor": "525",
+  "nome_reduzido": "INTERCAM CC LTDA",
+  "key": "525 - INTERCAM CC LTDA"
+ },
+ {
+  "valor": "526",
+  "nome_reduzido": "MONETARIE SCD",
+  "key": "526 - MONETARIE SCD"
+ },
+ {
+  "valor": "527",
+  "nome_reduzido": "ATICCA SCD S.A.",
+  "key": "527 - ATICCA SCD S.A."
+ },
+ {
+  "valor": "528",
+  "nome_reduzido": "REAG DTVM S.A.",
+  "key": "528 - REAG DTVM S.A."
+ },
+ {
+  "valor": "529",
+  "nome_reduzido": "PINBANK IP",
+  "key": "529 - PINBANK IP"
+ },
+ {
+  "valor": "530",
+  "nome_reduzido": "SER FINANCE SCD S.A.",
+  "key": "530 - SER FINANCE SCD S.A."
+ },
+ {
+  "valor": "532",
+  "nome_reduzido": "EAGLE SCD S.A.",
+  "key": "532 - EAGLE SCD S.A."
+ },
+ {
+  "valor": "534",
+  "nome_reduzido": "EWALLY IP S.A.",
+  "key": "534 - EWALLY IP S.A."
+ },
+ {
+  "valor": "535",
+  "nome_reduzido": "MARU SCD S.A.",
+  "key": "535 - MARU SCD S.A."
+ },
+ {
+  "valor": "536",
+  "nome_reduzido": "NEON PAGAMENTOS S.A. IP",
+  "key": "536 - NEON PAGAMENTOS S.A. IP"
+ },
+ {
+  "valor": "537",
+  "nome_reduzido": "MICROCASH SCMEPP LTDA.",
+  "key": "537 - MICROCASH SCMEPP LTDA."
+ },
+ {
+  "valor": "539",
+  "nome_reduzido": "SANTINVEST S.A. - CFI",
+  "key": "539 - SANTINVEST S.A. - CFI"
+ },
+ {
+  "valor": "541",
+  "nome_reduzido": "FDO GARANTIDOR CRÉDITOS            ",
+  "key": "541 - FDO GARANTIDOR CRÉDITOS            "
+ },
+ {
+  "valor": "545",
+  "nome_reduzido": "SENSO CCVM S.A.",
+  "key": "545 - SENSO CCVM S.A."
+ },
+ {
+  "valor": "546",
+  "nome_reduzido": "U4C INSTITUIÇÃO DE PAGAMENTO S.A.",
+  "key": "546 - U4C INSTITUIÇÃO DE PAGAMENTO S.A."
+ },
+ {
+  "valor": "600",
+  "nome_reduzido": "BCO LUSO BRASILEIRO S.A.",
+  "key": "600 - BCO LUSO BRASILEIRO S.A."
+ },
+ {
+  "valor": "604",
+  "nome_reduzido": "BCO INDUSTRIAL DO BRASIL S.A.",
+  "key": "604 - BCO INDUSTRIAL DO BRASIL S.A."
+ },
+ {
+  "valor": "610",
+  "nome_reduzido": "BCO VR S.A.",
+  "key": "610 - BCO VR S.A."
+ },
+ {
+  "valor": "611",
+  "nome_reduzido": "BCO PAULISTA S.A.",
+  "key": "611 - BCO PAULISTA S.A."
+ },
+ {
+  "valor": "612",
+  "nome_reduzido": "BCO GUANABARA S.A.",
+  "key": "612 - BCO GUANABARA S.A."
+ },
+ {
+  "valor": "613",
+  "nome_reduzido": "OMNI BANCO S.A.",
+  "key": "613 - OMNI BANCO S.A."
+ },
+ {
+  "valor": "623",
+  "nome_reduzido": "BANCO PAN",
+  "key": "623 - BANCO PAN"
+ },
+ {
+  "valor": "626",
+  "nome_reduzido": "BCO C6 CONSIG",
+  "key": "626 - BCO C6 CONSIG"
+ },
+ {
+  "valor": "630",
+  "nome_reduzido": "BCO LETSBANK S.A.",
+  "key": "630 - BCO LETSBANK S.A."
+ },
+ {
+  "valor": "633",
+  "nome_reduzido": "BCO RENDIMENTO S.A.",
+  "key": "633 - BCO RENDIMENTO S.A."
+ },
+ {
+  "valor": "634",
+  "nome_reduzido": "BCO TRIANGULO S.A.",
+  "key": "634 - BCO TRIANGULO S.A."
+ },
+ {
+  "valor": "637",
+  "nome_reduzido": "BCO SOFISA S.A.",
+  "key": "637 - BCO SOFISA S.A."
+ },
+ {
+  "valor": "643",
+  "nome_reduzido": "BCO PINE S.A.",
+  "key": "643 - BCO PINE S.A."
+ },
+ {
+  "valor": "653",
+  "nome_reduzido": "BANCO VOITER",
+  "key": "653 - BANCO VOITER"
+ },
+ {
+  "valor": "654",
+  "nome_reduzido": "BCO DIGIMAIS S.A.",
+  "key": "654 - BCO DIGIMAIS S.A."
+ },
+ {
+  "valor": "655",
+  "nome_reduzido": "BCO VOTORANTIM S.A.",
+  "key": "655 - BCO VOTORANTIM S.A."
+ },
+ {
+  "valor": "707",
+  "nome_reduzido": "BCO DAYCOVAL S.A",
+  "key": "707 - BCO DAYCOVAL S.A"
+ },
+ {
+  "valor": "712",
+  "nome_reduzido": "BCO OURINVEST S.A.",
+  "key": "712 - BCO OURINVEST S.A."
+ },
+ {
+  "valor": "720",
+  "nome_reduzido": "BCO RNX S.A.",
+  "key": "720 - BCO RNX S.A."
+ },
+ {
+  "valor": "739",
+  "nome_reduzido": "BCO CETELEM S.A.",
+  "key": "739 - BCO CETELEM S.A."
+ },
+ {
+  "valor": "741",
+  "nome_reduzido": "BCO RIBEIRAO PRETO S.A.",
+  "key": "741 - BCO RIBEIRAO PRETO S.A."
+ },
+ {
+  "valor": "743",
+  "nome_reduzido": "BANCO SEMEAR",
+  "key": "743 - BANCO SEMEAR"
+ },
+ {
+  "valor": "745",
+  "nome_reduzido": "BCO CITIBANK S.A.",
+  "key": "745 - BCO CITIBANK S.A."
+ },
+ {
+  "valor": "746",
+  "nome_reduzido": "BCO MODAL S.A.",
+  "key": "746 - BCO MODAL S.A."
+ },
+ {
+  "valor": "747",
+  "nome_reduzido": "BCO RABOBANK INTL BRASIL S.A.",
+  "key": "747 - BCO RABOBANK INTL BRASIL S.A."
+ },
+ {
+  "valor": "748",
+  "nome_reduzido": "BCO COOPERATIVO SICREDI S.A.",
+  "key": "748 - BCO COOPERATIVO SICREDI S.A."
+ },
+ {
+  "valor": "751",
+  "nome_reduzido": "SCOTIABANK BRASIL",
+  "key": "751 - SCOTIABANK BRASIL"
+ },
+ {
+  "valor": "752",
+  "nome_reduzido": "BCO BNP PARIBAS BRASIL S A",
+  "key": "752 - BCO BNP PARIBAS BRASIL S A"
+ },
+ {
+  "valor": "753",
+  "nome_reduzido": "NOVO BCO CONTINENTAL S.A. - BM",
+  "key": "753 - NOVO BCO CONTINENTAL S.A. - BM"
+ },
+ {
+  "valor": "754",
+  "nome_reduzido": "BANCO SISTEMA",
+  "key": "754 - BANCO SISTEMA"
+ },
+ {
+  "valor": "755",
+  "nome_reduzido": "BOFA MERRILL LYNCH BM S.A.",
+  "key": "755 - BOFA MERRILL LYNCH BM S.A."
+ },
+ {
+  "valor": "756",
+  "nome_reduzido": "BANCO SICOOB S.A.",
+  "key": "756 - BANCO SICOOB S.A."
+ },
+ {
+  "valor": "757",
+  "nome_reduzido": "BCO KEB HANA DO BRASIL S.A.",
+  "key": "757 - BCO KEB HANA DO BRASIL S.A."
+ }
+]
