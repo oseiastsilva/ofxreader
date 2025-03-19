@@ -189,7 +189,7 @@ async function extractAccountInfo(content) {
 
 async function getBankName(bankId) {
     try {
-        const response = await fetch('bancos_brasil.json');
+        const response = await fetch('/bancos_brasil.json');
         const bancos = await response.json();
         
         // Procura o banco pelo código no arquivo bancos_brasil.json
