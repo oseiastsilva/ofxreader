@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /blog.html
+Allow: /posts/
+Allow: /index.html
+
+Sitemap: https://ofxreader.vercel.app/sitemap.xml 

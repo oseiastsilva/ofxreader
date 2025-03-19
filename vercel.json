@@ -3,12 +3,16 @@
     "builds": [
         { "src": "*.html", "use": "@vercel/static" },
         { "src": "*.js", "use": "@vercel/static" },
+        { "src": "*.txt", "use": "@vercel/static" },
+        { "src": "*.xml", "use": "@vercel/static" },
         { "src": "public/**", "use": "@vercel/static" },
         { "src": "posts/**", "use": "@vercel/static" }
     ],
     "routes": [
         { "src": "/bancos_brasil.json", "dest": "/public/bancos_brasil.json" },
         { "src": "/script.js", "dest": "/script.js" },
+        { "src": "/robots.txt", "dest": "/robots.txt" },
+        { "src": "/sitemap.xml", "dest": "/sitemap.xml" },
         { "src": "/posts/(.*)", "dest": "/posts/$1" },
         { "src": "/(.*)", "dest": "/$1" }
     ]
